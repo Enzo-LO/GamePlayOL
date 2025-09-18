@@ -1,7 +1,8 @@
-import { SignIn } from "./src/screens/SignIn";
+import { SignIn } from "./src/screens/signIn";
 
-export default function App() {
-  return(
-    <SignIn />
-  )
+export  default function App() {
+  return (
+    <SignIn/>
+  );
 }
+
