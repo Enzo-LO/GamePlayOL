@@ -4,7 +4,7 @@ import { StyleSheet } from "react-native";
 export const stylesSignIn = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#08f89c',
+    backgroundColor: '#659',
     alignItems: 'center',
     justifyContent: 'center',
   },
