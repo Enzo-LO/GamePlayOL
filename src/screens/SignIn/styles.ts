@@ -7,4 +7,8 @@ export const stylesSignIn = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  image: {
+    width:'100%',
+    height:360
+  }
 });
